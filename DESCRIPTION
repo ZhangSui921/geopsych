@@ -10,7 +10,7 @@ Authors@R: c(
       comment = c(ORCID = "0000-0002-4143-2331")
     )
   )
-Description: Integrating applied psychological and psychometric methods into geographical analysis. With the emergence of geo-referenced questionnaires, spatially explicit psychological and psychometric methods can offer a geographically contextualised approach that reflects latent traits and processes at a more local scale, leading to more tailored research and decision-making processes. See Zhang & Li (2025) <doi:10.1111/gean.70021>.
+Description: Integrating applied psychological and psychometric methods into geographical analysis. With the emergence of geo-referenced questionnaires, spatially explicit psychological and psychometric methods can offer a geographically contextualised approach that reflects latent traits and processes at a more local scale, leading to more tailored research and decision-making processes. The implemented methods include Geographically Weighted Cronbach's alpha and its bandwidth selection. See Zhang & Li (2025) <doi:10.1111/gean.70021>.
 License: GPL (>= 3)
 Encoding: UTF-8
 LazyData: true
