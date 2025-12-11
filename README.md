@@ -1,4 +1,9 @@
 # geopsych
+
+<!-- badges: start -->
+[![CRAN_Status_Badge](http://www.r-pkg.org/badges/version/geopsych)](https://CRAN.R-project.org/package=geopsych)
+<!-- badges: end -->
+
 ### Methods of Applied Psychology and Psychometrics in Geographical Analysis
 
 Integrating applied psychological and psychometric methods into geographical analysis.
